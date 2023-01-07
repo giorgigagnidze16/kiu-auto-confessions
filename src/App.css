@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+
+.app {
+  width: 600px;
+  height: 500px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: white;
+  font-family: "Josefin Sans", cursive;
+  align-content: center;
+}
+
+.cover {
+  width: 75%;
+  display: block;
+  margin: 50px auto 30px;
+}
+
+.header {
+  text-align: center;
+  color: #0081c9;
+}
+
+.confessionsBox {
+  display: block;
+  width: 60%;
+  height: 150px;
+  font-size: 16px;
+  line-height: 1.5;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-sizing: border-box;
+  resize: none;
+  border-radius: 10px;
+  outline: none;
+  margin: 0 auto 20px;
+}
+
+.actionButtons {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
